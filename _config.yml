@@ -23,7 +23,7 @@ repository               : "smpeyres/smpeyres.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar.jpeg"
+  avatar           : "avatar.png"
   name             : "Sean M. Peyres"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student, Nuclear, Plasma, and Radiological Engineering"
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "sean-peyres-594a32230"
+  linkedin         : "sean-peyres-20209139b"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
