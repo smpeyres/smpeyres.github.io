@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **Ph.D., Nuclear, Plasma, and Radiological Engineering**, University of Illinois Urbana-Champaign
+* **Ph.D. Candidate, Nuclear, Plasma, and Radiological Engineering**, University of Illinois Urbana-Champaign
   * Expected defense: March 2028
   * Advisor: [Prof. R. Mohan Sankaran](https://npre.illinois.edu/people/profile/rmohan)
 * **B.S., Nuclear, Plasma, and Radiological Engineering**, University of Illinois Urbana-Champaign, May 2023
@@ -35,7 +35,7 @@ Research experience
 
 Honors, fellowships, and awards
 ======
-* DOE NNSA Stewardship Science Graduate Fellowship, 2024
+* DOE NNSA Stockpile Stewardship Graduate Fellowship, 2024 – present
 * Daniel F. Hang Outstanding Senior Design Award, NPRE, 2023
 * NPRE Outstanding Undergraduate Research Award, 2023
 * NPRE Rising Undergraduate Research Award, 2022
